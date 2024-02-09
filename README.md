@@ -5,4 +5,3 @@
 - HTML
 - CSS
 - JavaScript
-- Github
