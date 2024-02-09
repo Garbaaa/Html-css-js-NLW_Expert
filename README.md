@@ -1,1 +1,8 @@
-# Html-css-js-NLW_Expert
+# NLW Experts
+
+## Tecnologias Utilizadas
+
+- HTML
+- CSS
+- JavaScript
+- Github
